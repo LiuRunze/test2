@@ -1,0 +1,8 @@
+Notepad++ 7.4.2 new featurs/enhancements & bug-fixes:
+
+1.  Add SWIFT language support.
+2.  Fix replace in files regression.
+3.  Enhance Find Replace dialog (resizable & remove search direction radio buttons).
+4.  Fix 
+
+* WinGup v4.1
